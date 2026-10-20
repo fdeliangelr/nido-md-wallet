@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 9, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/flord/OneDrive/Desktop/Dashboard%20Gestion%20de%20Gastos/src/app/page.tsx"],"sourcesContent":["const handleOpenDashboard = () => {\r\n    window.location.href = '/dashboard';\r\n  };\r\n"],"names":["handleOpenDashboard","window","location","href"],"mappings":"AAAA,MAAMA,sBAAsB;IACxBC,OAAOC,QAAQ,CAACC,IAAI,GAAG;AACzB"}}]
+}

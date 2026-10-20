@@ -1,0 +1,20 @@
+{
+  "id": "/",
+  "name": "Mis Gastos — Finanzas en Pareja",
+  "short_name": "Mis Gastos",
+  "description": "Tu gestor financiero inteligente y rápido. Cuentas claras en pareja, control de mascotas y finanzas personales.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#0b0a15",
+  "theme_color": "#0b0a15",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
