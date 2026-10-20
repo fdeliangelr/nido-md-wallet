@@ -1,20 +1,15 @@
 {
-  "id": "/",
-  "name": "Mis Gastos — Finanzas en Pareja",
-  "short_name": "Mis Gastos",
-  "description": "Tu gestor financiero inteligente y rápido. Cuentas claras en pareja, control de mascotas y finanzas personales.",
+  "name": "NidoMDwallet",
+  "short_name": "NidoWallet",
   "start_url": "/",
-  "scope": "/",
   "display": "standalone",
-  "background_color": "#0b0a15",
-  "theme_color": "#0b0a15",
-  "orientation": "portrait-primary",
+  "background_color": "#0a0a0a",
+  "theme_color": "#0a0a0a",
   "icons": [
     {
-      "src": "/icon.svg",
-      "sizes": "192x192 512x512",
-      "type": "image/svg+xml",
-      "purpose": "any"
+      "src": "/favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
     }
   ]
 }
